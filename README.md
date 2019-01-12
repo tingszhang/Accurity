@@ -8,3 +8,5 @@ Z. Luo*, X. Fan*, Y. Su, YS. Huang (2018). Accurity: Accurate tumor purity and p
 For more information, check https://www.yfish.org/display/PUB/Accurity
 
 To compile, go into Accurity/ and type "make debug" or "make release".
+
+It is not easy to compile it. If you just want to use Accurity, please use its docker, https://www.yfish.org/display/PUB/Accurity#Accurity-3.1Docker.
